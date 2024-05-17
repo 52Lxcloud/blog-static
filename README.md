@@ -5,7 +5,7 @@
 
 https://www.npmjs.com/package/lxblog-static
 
-https://unpkg.com/lxblog-static
+https://unpkg.com/lxblog-static/
 
 https://cdn.jsdelivr.net/npm/lxblog-static/
 
